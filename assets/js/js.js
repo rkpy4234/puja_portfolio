@@ -11,5 +11,5 @@ document.addEventListener("DOMContentLoaded", function() {
             heart.remove();
         }, 5000);
     }
-    setInterval(createHeart, 500);
+    setInterval(createHeart, 100);
 });
